@@ -1,0 +1,21 @@
+@import "./reset.scss";
+@import "./vars.scss";
+@import "./mixin.scss";
+@import "../blocks/header.scss";
+@import "../blocks/main.scss";  
+@import "../blocks/footer.scss";
+body{
+    margin: 0 auto;
+}
+.header{
+    overflow: hidden;
+}
+.main{
+    overflow: hidden;
+}
+.main__subs{
+    overflow: hidden;
+}
+.footer{
+    overflow: hidden;
+}

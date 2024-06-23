@@ -1,0 +1,17 @@
+.main {
+  margin: 0 auto;
+}
+
+.main__top {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 995px;
+  height: 469.5px;
+}
+.main__top-title {
+  width: 510px;
+  height: 124px;
+}/*# sourceMappingURL=main.css.map */
